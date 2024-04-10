@@ -6,8 +6,8 @@ Karrier One链已被设计为一个创新平台，可与其他去中心化无线
 
 * **接入全球网络：**Karrier One 的目标是创建一个全球电信层，这意味着在我们的网络上构建的项目有可能接触到世界各地的用户。这样，开发人员就能接触到庞大而多样化的用户群。
 * **先进的区块链集成：**即将推出...
-* **先进的电信基础设施：**凭借 20 多年的在加拿大的电信经验，Karrier One 可以使用强大的电信基础设施。这包括许可频谱和 LTE 频段 53。
-* **增强型数字 ID：**Karrier 编号系统 (PNS)，它在传统 Web2 和不断发展的 Web3 域名之间架起了一座桥梁。PNS 系统所增加的安全性可显著提升在我们网络上建立的项目的用户体验。
+* **先进的电信基础设施：**凭借 20 多年的在加拿大的电信经验，Karrier One 可以使用强大的电信基础设施。这包括许可[<mark style="color:red;">频谱和 LTE53频段</mark>](../../wang-luo-chang-jian-wen-ti/pin-pu-he-53-pin-duan.md)。
+* **增强型数字 ID：**[<mark style="color:red;">Karrier 编号系统 (PNS)</mark>](../../wang-luo-chang-jian-wen-ti/kns-shu-zi-shen-fen.md)，它在传统 Web2 和不断发展的 Web3 域名之间架起了一座桥梁。PNS 系统所增加的安全性可显著提升在我们网络上建立的项目的用户体验。
 
 ## 入门
 

@@ -19,7 +19,7 @@ KONE DAO 是我们架构的 "大脑"，如下所示：
 
 ## 治理模式
 
-KONE DAO 采用流动民主模式，用户可以用 KONE 代币来创建投票 "票"。
+KONE DAO 采用流动民主模式，用户可以用 [<mark style="color:red;">KONE 代币</mark>](shi-mo-shi-kone-ling-pai.md)来创建投票 "票"。
 
 门票的投票权及其对投票奖励的索赔与消费的 KONE 数量成正比。门票可以手动投票，也可以通过委托其他用户自动投票。
 

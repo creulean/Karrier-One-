@@ -10,7 +10,7 @@
 
 ## Karrier One解决方案
 
-Karrier One 可以让偏远地区的个人通过门禁节点在他们需要的地方建立连接。
+Karrier One 可以让偏远地区的个人通过[<mark style="color:red;">门卫节点</mark>](../../wang-luo-chang-jian-wen-ti/jie-dian-xin-xi/shi-mo-shi-men-wei-jie-dian.md)在他们需要的地方建立连接。
 
 此外，通过我们的去中心化电信模式，权力不掌握在单一提供商手中，该提供商向偏远地区收取溢价。社区成员们可以充当服务提供者，增加自治元素，并为偏远社区创造收入来源。
 

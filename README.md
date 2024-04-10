@@ -9,7 +9,7 @@ description: 欢迎查阅Karrier One的官方文档。
 ### 第一步
 
 * **官方渠道**：始终验证您的更新和信息来源是否来自Karrier One授权的渠道。
-* **Karrier One 新用户**：请观看下面的信息视频短片。
+* **Karrier One 新用户**：请观看下面的[<mark style="color:red;">信息视频</mark>](./#karrier-one-simplified)短片。
 * **安全提示**：请查看下面的安全和保障部分。
 
 ### **安全与保障**
