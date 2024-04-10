@@ -28,7 +28,7 @@
 
 ## 网络常见问题
 
-* [节点信息](wang-luo-chang-jian-wen-ti/jie-dian-xin-xi/README.md)
+* [节点信息](wang-luo-chang-jian-wen-ti/page-1.md)
   * [什么是基础节点？](wang-luo-chang-jian-wen-ti/jie-dian-xin-xi/shi-mo-shi-ji-chu-jie-dian.md)
   * [什么是门卫节点？](wang-luo-chang-jian-wen-ti/jie-dian-xin-xi/shi-mo-shi-men-wei-jie-dian.md)
   * [什么是运营节点？](wang-luo-chang-jian-wen-ti/jie-dian-xin-xi/shi-mo-shi-yun-ying-jie-dian.md)
@@ -37,3 +37,15 @@
 * [KNS / 数字身份](wang-luo-chang-jian-wen-ti/kns-shu-zi-shen-fen.md)
 * [网络用户](wang-luo-chang-jian-wen-ti/wang-luo-yong-hu.md)
 * [频谱和53频段](wang-luo-chang-jian-wen-ti/pin-pu-he-53-pin-duan.md)
+
+## 支持
+
+* [如何联系支持人员？](zhi-chi/ru-he-lian-xi-zhi-chi-ren-yuan.md)
+* [如何购买 KONE？](zhi-chi/ru-he-gou-mai-kone.md)
+* [保护您的加密货币](zhi-chi/bao-hu-nin-de-jia-mi-huo-bi.md)
+* [Karrier One无线电](zhi-chi/karrier-one-wu-xian-dian/README.md)
+  * [无线电可以退款吗？](zhi-chi/karrier-one-wu-xian-dian/wu-xian-dian-ke-yi-tui-kuan-ma.md)
+  * [有哪些无线电可以购买？](zhi-chi/karrier-one-wu-xian-dian/you-na-xie-wu-xian-dian-ke-yi-gou-mai.md)
+  * [无线电安装](zhi-chi/karrier-one-wu-xian-dian/wu-xian-dian-an-zhuang.md)
+  * [哪些地区可供部署？](zhi-chi/karrier-one-wu-xian-dian/na-xie-di-qu-ke-gong-bu-shu.md)
+  * [如何优化我的无线电性能并赚取奖励？](zhi-chi/karrier-one-wu-xian-dian/ru-he-you-hua-wo-de-wu-xian-dian-xing-neng-bing-zhuan-qu-jiang-li.md)
